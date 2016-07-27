@@ -676,6 +676,7 @@
 - [franc](https://github.com/wooorm/franc) - Detect the language of text.
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [natural](https://github.com/NaturalNode/natural) - A general natural language facility.
+- [dracula-sentiment](https://github.com/Sentimentron/dracula-sentiment-node) - Determine the sentiment of a sentence.
 
 
 ### Process management
